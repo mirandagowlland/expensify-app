@@ -1,0 +1,31 @@
+* {
+    background-color:#986feb;
+    display: flex;
+    flex-direction: column;
+    /*align-items:center;*/
+    /*font-family: 'Pangolin', cursive;*/
+}
+
+h1 {
+    font-family: 'Nosifer', cursive;
+}
+
+button {
+    border-radius:8px;
+    background-color: rgb(163, 170, 176);
+    color:white;
+    margin: 10px;
+    width:150px;
+    font-size:16px;
+}
+
+input {
+    background-color:white;
+    border-radius:8px;
+    width:125px;
+}
+
+#option-text {
+    /*background-color:white;*/
+    width:250px;
+}
