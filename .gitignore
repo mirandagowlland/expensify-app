@@ -3,4 +3,8 @@ playground/counter.js
 playground/es6-arrow-function.js
 playground/build-it-visible.js
 playground/app.js
+playground/destructuring.js
+playground/hoc.js
+playground/redux-expensify.js
+playground/redux101.js
 node_modules
